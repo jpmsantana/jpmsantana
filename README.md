@@ -11,6 +11,7 @@
 ### Find me all around the web:
 
 <a href="https://www.linkedin.com/in/joao-msantana" target="blank"><img align="center" src="https://github.com/jpmsantana/jpmsantana/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://joaopaulosantana.medium.com" target="blank"><img align="center" src="https://github.com/jpmsantana/jpmsantana/blob/main/socials/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19.png" alt="" height="30" /></a>
 
 ### 🧑🏻‍💻 Main Stack
 
