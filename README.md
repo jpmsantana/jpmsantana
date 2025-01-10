@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+My name is João Paulo and this is my GitHub Profile / Portfolio / Place-where-you-can-know-more-about-me, so feel free to take a look on the public repositories, check out the code, the sollution itself, event comment and interact with me. Aside from that, here's a little more about me.
+
+### 🧑🏻‍💻 Main Stack
+
+- Ruby (especially Ruby on Rails)
+- Javascript (especially for ReactJS and NodeJS)
+
+### 🚀 Currently Working...
+
+I'm currently using my off-hours to work on my portfolio, focusing on an integration between the software for end-users and AI models for specific tasks.
+
+### 📬 How to Reach Me...
+
+- GitHub Profile
+- jpmsantana14@gmail.com
+
 <!--
 **jpmsantana/jpmsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
