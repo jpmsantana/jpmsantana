@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github.com/jpmsantana/jpmsantana/blob/main/github-header-image.png" />
 
 👋 Hi, I'm João Paulo – a passionate developer, problem-solver, and tech enthusiast. Welcome to my GitHub Profile/Portfolio, the place where you can dive into my public repositories, explore my solutions, and even interact with me through comments and discussions. I'm always open to feedback and collaboration, so feel free to connect!
 
