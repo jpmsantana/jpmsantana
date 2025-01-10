@@ -10,7 +10,7 @@
 
 ### Find me all around the web:
 
-<a href="https://www.linkedin.com/in/joao-msantana" target="blank"><img align="center" src="https://github.com/jpmsantana/jpmsantana/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/joao-msantana" target="blank"><img align="center" src="https://github.com/jpmsantana/jpmsantana/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
 ### 🧑🏻‍💻 Main Stack
 
