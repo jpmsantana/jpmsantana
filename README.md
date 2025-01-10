@@ -21,11 +21,6 @@
 
 I'm currently using my off-hours to work on my portfolio, focusing on an integration between the software for end-users and AI models for specific tasks.
 
-### 📬 How to Reach Me...
-
-- GitHub Profile
-- jpmsantana14@gmail.com
-
 <!--
 **jpmsantana/jpmsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
