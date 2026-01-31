@@ -33,7 +33,6 @@ I'm currently using my off-hours to work on my portfolio, focusing on an integra
     srcset="https://github-readme-stats.vercel.app/api?username=jpmsantana&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=jpmsantana&show_icons=true" />
 </picture>
 
 <!--
