@@ -18,22 +18,9 @@
 - Ruby (especially Ruby on Rails)
 - Javascript (especially for ReactJS and NodeJS)
 
-### 🚀 Currently Working...
+### 🚀 Portfolio
 
-I'm currently using my off-hours to work on my portfolio, focusing on an integration between the software for end-users and AI models for specific tasks.
-
-### 📊 Status
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpmsantana&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpmsantana&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
+[https://portfolio-b9e77.web.app/](https://portfolio-b9e77.web.app/)
 
 <!--
 **jpmsantana/jpmsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
